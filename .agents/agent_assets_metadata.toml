@@ -1,0 +1,32 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "g7WfoP9fEOHgn-92gLPjZ"
+uri = "file://artifacts/vehiclespot/src/assets/images/hero-car.png"
+type = "image"
+title = "Hero luxury SUV in showroom"
+
+[[generated]]
+id = "7tFZdiEUIee6fQpR1ree0"
+uri = "file://artifacts/vehiclespot/src/assets/images/showroom.png"
+type = "image"
+title = "Showroom exterior golden hour"
+
+[[generated]]
+id = "hBuNhOPEkw-x2iCX30Sq4"
+uri = "file://artifacts/vehiclespot/src/assets/images/featured-1.png"
+type = "image"
+title = "Silver luxury SUV"
+
+[[generated]]
+id = "bXvoWbOEHDmVGrXlT8W_T"
+uri = "file://artifacts/vehiclespot/src/assets/images/featured-2.png"
+type = "image"
+title = "Black luxury SUV"
+
+[[generated]]
+id = "EMDcVN6_EO4FTE7nKQMhJ"
+uri = "file://artifacts/vehiclespot/src/assets/images/featured-3.png"
+type = "image"
+title = "White luxury SUV"
